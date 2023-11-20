@@ -31,12 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![244924621-0eb5f01a-9138-4cd3-8e2a-a83d4fc5d7c8](https://github.com/KSIHORE/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151484879/3fccd327-4fac-4da0-872d-19774dab0be1)
 ### Output:
-
-
-### Name:
-### Register Number:
+![244924611-dd8faf15-7f46-4831-8aaa-b587c8d382eb](https://github.com/KSIHORE/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151484879/a1cafc8f-3988-4291-897e-618133ee0e4b)
+### Name: KISHORE .B
+### Register Number: 212222110020
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
